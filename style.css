@@ -1,0 +1,16 @@
+:root{
+    --background_color : #252525 ;
+    --font_color : white ;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'baloo bhai' , cursive;
+    background-color: var(--background_color);
+    color: var(--font_color);
+}
+
